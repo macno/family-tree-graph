@@ -1,0 +1,11 @@
+.dockerignore
+.editorconfig
+.eslintrc.json
+.git
+.gitignore
+.gitlab-ci.yml
+.idea
+Dockerfile
+README.md
+node_modules
+public/assets/family-tree-sample.json

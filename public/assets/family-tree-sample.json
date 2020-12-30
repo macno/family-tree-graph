@@ -1,0 +1,124 @@
+{
+  "familyTreeName": "Royal Family",
+  "data": {
+    "gmw": {
+      "first_name": "George",
+      "second_name": "Alexander Louis",
+      "surname": "Mountbatten-Windsor",
+      "sex": "m",
+      "born": {
+        "date": "2013"
+      },
+      "parents": ["wmw", "cm"]
+    },
+    "cmw": {
+      "first_name": "Charlotte",
+      "second_name": "Elizabeth Diana",
+      "surname": "Mountbatten-Windsor",
+      "sex": "f",
+      "born": {
+        "date": "2015"
+      },
+      "parents": ["wmw", "cm"]
+    },
+    "lmw": {
+      "first_name": "Louis",
+      "second_name": "Arthur Charles",
+      "surname": "Mountbatten-Windsor",
+      "sex": "m",
+      "born": {
+        "date": "2018"
+      },
+      "parents": ["wmw", "cm"]
+    },
+    "wmw": {
+      "first_name": "William",
+      "second_name": "Arthur Philip Louis",
+      "surname": "Mountbatten-Windsor",
+      "sex": "m",
+      "born": {
+        "date": "1982"
+      },
+      "parents": ["cpmw", "dfs"]
+    },
+    "cm": {
+      "first_name": "Catherine",
+      "second_name": "",
+      "surname": "Middleton",
+      "sex": "f",
+      "born": {
+        "date": "1982"
+      },
+      "parents": ["mm", "cg"]
+    },
+    "cpmw": {
+      "first_name": "Charles",
+      "second_name": "Philip Arthur George",
+      "surname": "Mountbatten-Windsor",
+      "sex": "m",
+      "born": {
+        "date": "1948"
+      },
+      "parents": ["qe", "pm"]
+    },
+    "dfs": {
+      "first_name": "Diana",
+      "second_name": "Frances",
+      "surname": "Spencer",
+      "sex": "f",
+      "born": {
+        "date": "1961-07-01"
+      },
+      "dead": {
+        "where": "Paris",
+        "date": "1997-08-31"
+      }
+    },
+    "qe": {
+      "first_name": "Elizabeth",
+      "second_name": "Alexandra Mary",
+      "surname": "",
+      "sex": "f",
+      "born": {
+        "date": "1926"
+      }
+    },
+    "pm": {
+      "first_name": "Philip",
+      "second_name": "",
+      "surname": "Mountbatten",
+      "sex": "m",
+      "born": {
+        "date": "1921"
+      }
+    },
+    "mm": {
+      "first_name": "Michael",
+      "second_name": "",
+      "surname": "Middleton",
+      "sex": "m",
+      "born": {
+        "date": "1949"
+      }
+    },
+    "cg": {
+      "first_name": "Carole",
+      "second_name": "Elizabeth",
+      "surname": "Goldsmith",
+      "sex": "f",
+      "born": {
+        "date": "1955"
+      }
+    },
+    "pcm": {
+      "first_name": "Pippa",
+      "second_name": "Charlotte",
+      "surname": "Middleton",
+      "sex": "f",
+      "born": {
+        "date": "1983"
+      },
+      "parents": ["mm", "cg"]
+    }
+  }
+}
